@@ -1,0 +1,29 @@
+Değerli hocalarım merhaba.
+İsmim Semih.
+pazartesi itibariyle 5 bölüm MS SQL çalışmaları yapacağız.
+Çok güzel bir hafta geçireceğimizi düşünüyorum.
+Yapılmasını istediğim bir kaç husus var. Lütfen ders başlamadan önce;
+MS SQL server 2019 developer edition
+MS SQL Management Studuo
+kurulumunu yapınız.
+Windows işletim sistemi kullanmayan hocalarımız bu süreçte Windows işletim sistemli bir bilgisayar kullanabilir. İkinci seçenek olarak Sanal bilgisayar üzerine Microsoft işletim sistemi üzerine MS SQL server kurup çalışmaları sanal bilgisayar üzerinden yapabilir.
+MS SQL server kurulum detaylı anlatıma aşağıdaki linkten ulaşabilirsiniz.
+
+https://www.youtube.com/watch?v=FO8qtuZorHM
+
+herhangi bir sorunuz olursa sormaktan çekinmeyiniz.
+iyi çalışmalar dilerim.
+
+
+Arkadaşlar merhaba eğer MAC kullanan arkadaşlar eğer bugünki ders için gerekli olan
+MS SQL server 2019 developer edition
+MS SQL Management Studuo
+programlarını kurmadıysanız/kuramadıysanız. Aşağıdaki videoyu izleyerek kurabilirsiniz.
+
+https://www.youtube.com/watch?v=glxE7w4D8v8
+
+eğer npn hatası alırsanız da şu video sorununuzu çözecektir.
+https://www.youtube.com/watch?v=HWzHOPc6-cQ
+
+SSMS indirmek için
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16

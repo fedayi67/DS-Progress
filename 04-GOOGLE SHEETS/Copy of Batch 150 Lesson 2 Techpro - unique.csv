@@ -1,0 +1,26 @@
+,,,,,,,
+,,,,,,,
+,,UNIQUE,,,,UNIQUE (multiple columns),
+,Ahmet  Şahin,Ahmet  Şahin,,Ahmet  Şahin,23,Ahmet  Şahin,23
+,Yavuz Nur,Yavuz Nur,,Yavuz Nur,41,Yavuz Nur,41
+,Sema Kaya,Sema Kaya,,Sema Kaya,23,Sema Kaya,23
+,Tuba Kara,Tuba Kara,,Tuba Kara,24,Tuba Kara,24
+,Eda Perçin,Eda Perçin,,Eda Perçin,23,Eda Perçin,23
+,Ahmet  Aydın,Ahmet  Aydın,,Ahmet  Aydın,4,Ahmet  Aydın,4
+,Elif Doğu,Elif Doğu,,Elif Doğu,5,Elif Doğu,5
+,Emel Esen,Emel Esen,,Emel Esen,55,Emel Esen,55
+,Yusuf Özkan,Yusuf Özkan,,Yusuf Özkan,66,Yusuf Özkan,66
+,Sezgin Kıyılı,Sezgin Kıyılı,,Sezgin Kıyılı,77,Sezgin Kıyılı,77
+,Tuba Kara,,,Tuba Kara,24,Eda Perçin,9
+,Eda Perçin,,,Eda Perçin,9,Ahmet  Aydın,56
+,Ahmet  Aydın,,,Ahmet  Aydın,56,Eda Perçin,35
+,Eda Perçin,,,Eda Perçin,35,Ahmet  Aydın,34
+,Ahmet  Aydın,,,Ahmet  Aydın,34,Elif Doğu,23
+,Elif Doğu,,,Elif Doğu,23,Emel Esen,56
+,Emel Esen,,,Emel Esen,56,Yusuf Özkan,54
+,Yusuf Özkan,,,Yusuf Özkan,54,Tuba Kara,33
+,Sema Kaya,,,Sema Kaya,23,Eda Perçin,22
+,Tuba Kara,,,Tuba Kara,33,Ahmet  Aydın,22
+,Eda Perçin,,,Eda Perçin,22,Elif Doğu,33
+,Ahmet  Aydın,,,Ahmet  Aydın,22,,
+,Elif Doğu,,,Elif Doğu,33,,

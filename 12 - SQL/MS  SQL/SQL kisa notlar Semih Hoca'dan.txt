@@ -1,0 +1,23 @@
+DATA Transferi
+-- Excel ve CSV
+-- MDF, LDF
+	-- veritabanlarinin mdf ve ldf veri dosyalari vardir
+	-- Dosyayi management studiodan koparip kopyalamak icin a) Deatach veya b) mssql stop yontemleri
+	-- Sonra en ustte database'e tiklayip atach diyip add ile istedigimiz database tekrar eklenebilir
+-- BAK (Backup)
+	-- sag tik task, backup lokasyon secilip okey
+	-- en ustte database sag klik restore
+-- Baska Veri Tabanindan
+   -- sag tik import data ile
+   -- uzak sunucudan kopyalamk isteseydik 
+		-- once uzak sunucuya baglanabilmeliyiz veri gonderecek alacak durumda olmaliyiz
+		-- sonra sag klik task import data, .,  windows autondikation, native, microsoft OLE Provider for SQl Server, Sql server aut
+   -- cikti alirken sag klik task, export data ve burada isim.xlsx olarak kayit
+-- Azure vb Cloud ortamlarindan
+
+-- Simdi protech_veri_transferi tabanina protech_6 dan veri alalim
+-- 1- Beraber uzaktaki bilgisayardan database cekme islemi yapacagiz
+-- 2- Uzerinde islem yapabiliriz
+-- 3- En sonunda excel veya csv olrak cikti yapacagiz
+
+-- Ekstra olarak SQL verileri cesitli kutuphaneler kullanarak python araclarinda kullanabiliriz

@@ -1,0 +1,46 @@
+Task 1) Pet statistics-Enlighten Aquarium
+
+Task 2) Yıllara göre satış oranlarını görmek istiyorum. Pie Chart-Donut Chart
+
+Task 3) Müşterilerin yaşadıkları yerlere göre maliyetlerin toplamını görmek istiyorum. Treemap 
+
+Task 4) Her bir ülkenin yıllara göre değişen satış toplamlarını görmek istiyorum. Line Chart
+
+Task 5) Slicer ile  employee name, date ve country-city-adress filtresi oluştur. Slicer
+
+
+Task 6) Ürünlerin toplam cost-margin-sales değerlerini görmek istiyorum. Table
+
+
+Task 7) Year-Quarter-Month-Day kırılımında toplam cost-margin-sales değerlerini görmek istiyorum. Matrix
+
+
+Task 8) Toplam cost-margin-sales görmek istiyorum. Card and Multi-row card
+
+
+
+Task 9) En çok ürün satılan 5 müşterinin sales-cost-margin değerlerini görmek istiyorum. Line and clustered column chart-Line and stacked column chart
+
+
+
+Task 10) Yıllara göre değişen toplam Sales ve çeyrek başına ortalama sales değerlerini görmek istiyorum. Area Chart
+
+
+
+Task 11) Ürünlerin sales ve cost değerleri arasındaki ilişkiyi görmek istiyorum. Scatter Chart with Play Axis
+
+
+
+Task 12) En fazla kar getiren 10 ürünü görmek istiyorum. Funnel
+
+
+Task 13) Yıllara göre yaz mevsiminde yapılan satışları miktarlarını görmek istiyorum. Waterfall Chart
+
+
+Task 14) 2006 yılında Almanya’da 7000 satış miktarı (Quantity) hedefime ulaşıp ulaşmadığımı görmek istiyorum. Gauge
+
+
+Task 15) Ülkelere göre toplam satış miktarlarını görmek istiyorum. Map
+
+
+Task 16) Ülkelere göre toplam satış değerleri 50000’den büyük olanları farklı renkte, küçük olanları da farklı bir renkte görmek istiyorum. Filled Map

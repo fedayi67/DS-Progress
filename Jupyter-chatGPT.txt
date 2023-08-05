@@ -1,0 +1,23 @@
+Jupyter Lab da chatGPT yi calistirma(import)
+1 -)  pip install requests --->bu komutu calistir--> bunu bir kez yapmak yeterli
+2 -)  import requests  --> bu komutu calistir --> bunu her notebook u actigimizda yeniden import gerekir
+3 -) def chatGPT(text):
+    url = "https://api.openai.com/v1/completions"
+    headers = {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer your API",
+    }
+    data = {
+    "model": "text-davinci-003",
+    "prompt": text,
+    "max_tokens": 4000,
+    "temperature": 1.0,
+    }
+    response = requests.post(url, headers=headers, json=data)
+    output = response.json()['choices'][0]['text']
+    return print(output)
+---> yukaridaki fonksiyonu yeni hucreye yapistiriyoruz ama calistirmiyoruz
+4 -)  "Authorization": "Bearer your API", buradaki your API yazan kisma API Keyi almak icin https://platform.openai.com/ bu adrese gidiyoruz.
+5 -)  Personel i tikliyoruz --> View API keys tikliyoruz -->Create new secret key --> olusan API keyi kopyaliyoruz
+6 -)  "Authorization": "Bearer your API", your API yazan kisma kopyaladigimiz API keyi yapistiyoruz ve run ediyoruz
+7 -)  chatGPT("numpy da var() ne ise yarar") bu sekilde arama yapiyoruz
